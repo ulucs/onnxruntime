@@ -16,6 +16,7 @@
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
 
+#include <cfloat>
 #include <cuda.h>
 #include <cuda_fp16.h>
 #include <math.h>
